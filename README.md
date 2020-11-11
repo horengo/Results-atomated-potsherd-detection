@@ -1,7 +1,7 @@
 # Results-atomated-potsherd-detection
-These folders include the results of two algorithms for the atomated detection of potsherds using the same orthophotomsaic. The original images were acquired by a DJI Phantom 4 Pro V2.0 flying at a height of around 3m above ground.
+These folders include the results of two algorithms for the automated detection of potsherds using the same orthophotomsaic. The original images were acquired by a DJI Phantom 4 Pro V2.0 flying at a height of around 3m above ground.
 
-Both folders contain the shapefiles ready to be integrated into standard GIS projects. References to the processes follow to create these files are:
+Both folders contain shapefiles ready to be integrated into standard GIS software. References to the processes followed to create these files are:
 
 Random Forest-based algorithm:
 Orengo, H.A. and Garcia-Molsosa, A. 2019. A brave new world for archaeological survey: Automated machine learning-based potsherd detection using high-resolution drone imagery. Journal of Archaeological Science, 112: 105013.
