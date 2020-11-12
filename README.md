@@ -8,7 +8,7 @@ Orengo, H.A. and Garcia-Molsosa, A. 2019. A brave new world for archaeological s
 https://www.sciencedirect.com/science/article/pii/S0305440319301001
 
 Mask R-CNN algorithm:
-Orengo, H.A.; Garcia-Molsosa, A.; erganzo-Besga, I.; Landauer, J.; Aliende, P. and Tres-Martínez, S. In press. New developments in drone-based automated surface survey: towards a functional and effective survey system. Archaeological Prospection.
+Orengo, H.A.; Garcia-Molsosa, A.; Berganzo-Besga, I.; Landauer, J.; Aliende, P. and Tres-Martínez, S. In press. New developments in drone-based automated surface survey: towards a functional and effective survey system. Archaeological Prospection.
 
 
 The orthophotomosaic can be downloaded from Google Earth Engine using the following code:
