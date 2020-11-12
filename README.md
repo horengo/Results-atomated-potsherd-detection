@@ -13,7 +13,7 @@ Orengo, H.A.; Garcia-Molsosa, A.; erganzo-Besga, I.; Landauer, J.; Aliende, P. a
 
 The orthophotomosaic can be downloaded from Google Earth Engine using the following code:
 
-var orthomosaic = ee.Image('users/hao23/sherds/plot591')
+var orthomosaic = ee.Image('users/hao23/sherds/plot591');
 Export.image.toDrive({
   image: orthomosaic,
   description: 'orthomosaic',
