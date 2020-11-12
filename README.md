@@ -1,5 +1,6 @@
-# Results of the atomated potsherd detection
+# Results of the automated potsherd detection
 These folders store the results of the automated extraction of individual potsherd fragments in the soil surface provided by two different approaches. They both used the same orthophotomsaic. The original images were acquired by a DJI Phantom 4 Pro V2.0 flying at a height of around 3m above ground. These were acquired as part of the survey of the city of Abdera and its environments. These images correspond to plot 591.
+These are preliminary results of work in progress. Future research will provide more developed algorithms and processes. This is only intended to document the provisional results as they were in early summer 2020.
 
 Both folders contain shapefiles ready to be integrated into standard GIS software. References to the processes followed to create these files are:
 
